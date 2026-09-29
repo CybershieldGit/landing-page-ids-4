@@ -1,5 +1,5 @@
 # Robots.txt for iDigitalStudies Landing Page
-# https://lp5.idigitalstudies.com
+# https://lp6.idigitalstudies.com
 
 User-agent: *
 Allow: /
@@ -9,4 +9,4 @@ Disallow: /thank-you/
 Disallow: /thank-you.html
 
 # Sitemap location
-Sitemap: https://lp5.idigitalstudies.com/sitemap.xml
+Sitemap: https://lp6.idigitalstudies.com/sitemap.xml
